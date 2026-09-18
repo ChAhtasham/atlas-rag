@@ -2,7 +2,6 @@
 
 A clean, public-safe Next.js demo of a multi-tenant engineering knowledge platform. Atlas shows how teams can manage mixed-format source documents, ask grounded questions, inspect citations, revisit conversations, evaluate RAG quality, and configure retrieval behavior.
 
-**Live demo:** https://atlas-rag-demo.podcom-1387.chatgpt.site
 
 ## Included
 
